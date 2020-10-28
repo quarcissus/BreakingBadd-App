@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce61b0a6.chunk.css",
+    "main.js": "/static/js/main.c34380bb.chunk.js",
+    "main.js.map": "/static/js/main.c34380bb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.768c5228.js",
+    "runtime-main.js.map": "/static/js/runtime-main.768c5228.js.map",
+    "static/js/2.e4923554.chunk.js": "/static/js/2.e4923554.chunk.js",
+    "static/js/2.e4923554.chunk.js.map": "/static/js/2.e4923554.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ce61b0a6.chunk.css.map": "/static/css/main.ce61b0a6.chunk.css.map",
+    "static/js/2.e4923554.chunk.js.LICENSE.txt": "/static/js/2.e4923554.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/static/media/Heart-Breaking-Bad.d755d78c.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.768c5228.js",
+    "static/js/2.e4923554.chunk.js",
+    "static/css/main.ce61b0a6.chunk.css",
+    "static/js/main.c34380bb.chunk.js"
+  ]
+}
